@@ -1,0 +1,1 @@
+# captcha-analyzer-tool
