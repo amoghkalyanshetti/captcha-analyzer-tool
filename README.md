@@ -9,3 +9,4 @@ Captcha Analyzer Tool(CAT) provides the following functionalities
 2 Measure the strength of Captcha
 
 3 Improve the strength of Captcha
+(Project is done using Netbeans IDE on Windows)
